@@ -1,4 +1,4 @@
 {
-  "IBD-Tool": "{{ steps.build_release.outputs.version }}",
+  "IBD-Tool": "v1.0.0",
   "Wechat-Clean": "v0.1.9"
 }
